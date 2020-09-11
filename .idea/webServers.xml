@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f426960-d490-49a5-bd34-6045ee49f624" name="django01-server">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="123.56.82.187" port="22" sshConfigId="9efa3079-fcb1-4d16-bbac-48e6dac7050e" sshConfig="root@123.56.82.187:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

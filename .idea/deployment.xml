@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@123.56.82.187:22">
+    <serverData>
+      <paths name="django01-server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/django/d_test1/dj01" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@123.56.82.187:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/django/d_test1/dj01" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
